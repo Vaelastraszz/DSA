@@ -2,4 +2,4 @@ Repository des scripts pour implémenter les différentes Data Structures en Pyt
 - Linked List
 - Stack
 - Queue
-- Binary Tree ... coming soon
+- Binary Tree + Graph... coming soon
