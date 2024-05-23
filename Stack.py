@@ -45,6 +45,12 @@ class Stack:
         return self.stack[-1]
 
     def size(self):
+        """Returns the number of elements in the stack.
+
+        Args : None
+
+        Returns : int : the number of elements in the stack."""
+
         return len(self.stack)
 
 
