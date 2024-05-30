@@ -71,10 +71,6 @@ A **linked list** is a linear data structure where elements are stored in nodes,
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## Contact
-
-For any questions or feedback, please contact me at [your-email@example.com].
-
 ---
 
 Thank you for visiting my repository! I hope you find these implementations useful and educational.
