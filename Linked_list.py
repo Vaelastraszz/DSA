@@ -96,4 +96,6 @@ if __name__ == "__main__":
     linked_list.append(3)
     linked_list.append(4)
     linked_list.append(5)
+    linked_list.append(6)
+    linked_list.append(7)
     print(linked_list.get_count_nodes())
