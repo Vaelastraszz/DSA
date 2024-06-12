@@ -18,7 +18,7 @@ class Linked_Node:
     Represents a linked list node.
 
     Attributes:
-        head: The head node of the linked list.
+        # head: The head node of the linked list.
     """
 
     count_nodes = 0

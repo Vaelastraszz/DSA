@@ -1,7 +1,7 @@
 class Queue:
     def __init__(self):
         """Creates a new queue that is empty."""
-        self.items = []
+        self.items: list[int] = []
 
     def isEmpty(self):
         """Tests to see whether the queue is empty."""
